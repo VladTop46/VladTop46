@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VladTop46
 - 👀 I’m interested in C#, HTML, PHP programming.
-- 🌱 I’m currently learning C#, HTML
+- 🌱 I’m currently learning C#
 - 📫 How to reach me: https://friendworld.ru/forum or admin@friendworld.ru or Discord - VladTop46#5611
 
 <!---
