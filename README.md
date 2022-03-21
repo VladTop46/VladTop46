@@ -4,5 +4,5 @@
 <h2 align="center">My VK: <a href="https://vk.com/vladtop46">VladTop46</a>
 
 ###
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladTop46&theme=merko)](https://github.com/VladTop46)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladTop46&theme=merko)](https://github.com/VladTop46)
+<div align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladTop46&theme=merko)](https://github.com/VladTop46)</div>
+<div align="center">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladTop46&theme=merko)](https://github.com/VladTop46)</div>
