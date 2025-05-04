@@ -1,4 +1,4 @@
-# VladTop46 - Разработчик ПО
+# VladTop46
 
 ![Статус разработчика](https://img.shields.io/badge/Developer-VladTop46-brightgreen)
 ![Операционная система](https://img.shields.io/badge/OS-Arch%20Linux-blue?logo=arch-linux)
