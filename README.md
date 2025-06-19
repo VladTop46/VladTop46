@@ -2,6 +2,7 @@
 
 ![Статус разработчика](https://img.shields.io/badge/Developer-VladTop46-brightgreen)
 ![Операционная система](https://img.shields.io/badge/OS-Arch%20Linux-blue?logo=arch-linux)
+[![ProtonDB Reports](https://api.vladtop46.ru/anything/v1/badges/protondb.php)](https://www.protondb.com/users/609457498)
 ![Java](https://img.shields.io/badge/Lang-Java-orange?logo=java)
 ![C++](https://img.shields.io/badge/Lang-C%2B%2B-blue?logo=c%2B%2B)
 ![PHP](https://img.shields.io/badge/Lang-PHP-purple?logo=php)
